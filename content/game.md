@@ -11,7 +11,7 @@ get too close they can attack you as well.
 
 The game is played using the keyboard. Press space to start.
 
-<a href="#" class="button icon fa-play">Play Game</a>
+<a href="http://web.editey.com/0B4hBm71EOD15NEo5a1Z1TFlBRG8/index.html" class="button icon fa-play">Play Game</a>
 
 ## Controls
 
