@@ -4,3 +4,16 @@ draft: false
 title: Game
 ---
 
+The objective of *The Hero, Callistus* is to defeat all of Crispin's evil
+minions without dying. You can shoot them with your wand, but be careful! If you
+get too close they can attack you as well.
+
+The game is played using the keyboard.
+
+## Controls
+
+| Key                     | Action           |
+| ----------------------- | ---------------- |
+| Left & Right arrow keys | Move             |
+| Up arrow key            | Jump             |
+| Spacebar                | Shoot/Start game |

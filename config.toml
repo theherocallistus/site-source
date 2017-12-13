@@ -7,8 +7,8 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = "In a world where wizards and witches reside, our hero Callistus was 13 when he met his best friend Crispin. It was the news of the town, the hero Callistus befriended the weak Crispin.</br> Many bullied Crispin, calling him Crispi and Pinhead. One day, Crispin couldn't take it anymore and ran away.</br> 10 years later, he has come back to terrorize the town and Callistus must stop him or else.</br> The world will end."
-  logo = "fa-diamond"
+  description = "A friendship gone wrong ruins a town. Only Callistus can save them now."
+  logo = "fa-snowflake-o"
   copyright = "Systematic Dreamers"
 
 [[params.social]]
