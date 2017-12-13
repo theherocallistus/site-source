@@ -11,3 +11,6 @@ Callistus befriended the weak Crispin. Many bullied Crispin, calling him Crispi
 and Pinhead. One day, Crispin couldn't take it anymore and ran away. 10 years
 later, he has come back to terrorize the town and Callistus must stop him or
 else the world will end.
+
+![Paper Game](images/game/game-2-paper.png)
+![Real Game](images/game/game-1.png)
