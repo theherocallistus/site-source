@@ -11,6 +11,8 @@ get too close they can attack you as well.
 
 The game is played using the keyboard. Press space to start.
 
+<a href="#" class="button icon fa-play">Play Game</a>
+
 ## Controls
 
 | Key                     | Action           |
