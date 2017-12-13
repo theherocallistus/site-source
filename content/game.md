@@ -2,6 +2,7 @@
 date: 2017-11-13T07:51:18-05:00
 draft: false
 title: Game
+weight: 20
 ---
 
 The objective of *The Hero, Callistus* is to defeat all of Crispin's evil
